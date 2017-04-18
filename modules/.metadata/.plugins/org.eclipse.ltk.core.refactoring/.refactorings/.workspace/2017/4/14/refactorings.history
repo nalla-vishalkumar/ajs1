@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;first_example&apos; to &apos;data_binding&apos;" description="Rename resource &apos;first_example&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/first_example" name="data_binding" stamp="1491552319406" updateReferences="true"/>
+</session>

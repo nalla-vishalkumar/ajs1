@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>angular_examples</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>angular-phonecat</name>
+			<type>2</type>
+			<location>E:/root/personal/knowledge_library/computer_science/web/javascript/frameworks/angular_js/v1.x/work/git_repo/angular-phonecat</location>
+		</link>
+	</linkedResources>
+</projectDescription>

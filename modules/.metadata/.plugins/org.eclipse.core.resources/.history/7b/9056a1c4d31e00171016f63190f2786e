@@ -1,0 +1,26 @@
+'use strict';
+
+
+// Defining ebrdApp module
+
+var ebrdApp = angular.module('ebrdApp', []);
+
+// Defining ebrdTabs controller on the ebrdApp module
+ebrdApp.controller('ebrdTabsController', function EbrdTabsController($scope) {
+	$scope.tabs = [
+		{
+			name: 'Projects',
+			link: 'xyz'
+		},
+		{
+			name: 'Projects',
+			link: 'xyz'
+		},
+		{
+			name: 'Projects',
+			link: 'xyz'
+		}
+	];
+	
+	
+});

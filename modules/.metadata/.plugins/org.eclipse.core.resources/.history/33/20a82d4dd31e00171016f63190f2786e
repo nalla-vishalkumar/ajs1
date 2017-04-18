@@ -1,0 +1,7 @@
+'use strict';
+
+
+// Defining ebrdApp module
+
+var ebrdApp = angular.module('ebrdApp', []);
+

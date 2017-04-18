@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="en" ng-app="ebrdApp">
+<head>
+<script src="angular.min.js"></script>
+<script src="app.js"></script>
+</head>
+</html>

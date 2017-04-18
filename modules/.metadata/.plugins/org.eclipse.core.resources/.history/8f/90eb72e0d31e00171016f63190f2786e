@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en" ng-app="ebrdApp">
+<head>
+<script src="angular.min.js"></script>
+<script src="app.js"></script>
+</head>
+<body ng-controller="ebrdTabController">
+	<ul>
+		<li ng-repeat="ebrdTab in ebrdTabs"><span>{{ebrdTab.name}}</span>
+			<p>{{ebrdTab.link}}
+		</li>
+	</ul>
+</body>
+</html>
