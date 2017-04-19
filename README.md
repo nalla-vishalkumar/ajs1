@@ -5,4 +5,4 @@ Angular JS Repository for version 1.x
 Vishal Kumar Nalla
 
 # Branch
-Hotfix
+Master
